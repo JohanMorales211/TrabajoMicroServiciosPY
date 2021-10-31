@@ -1,0 +1,1 @@
+{"py/object": "TiendaMaquillaje.dominio.producto.Producto", "nombre": "delineador_Cejas", "categoria": "l\u00edquida", "color": "palo de rosa", "marca": "Essie", "precio": 120000, "id": {"py/object": "uuid.UUID", "hex": "28202a1826ed4ae3957850f4d72241b7"}}

@@ -1,0 +1,1 @@
+{"py/object": "FabricaPanaderia.dominio.producto.Producto", "nombre": "reina", "forma": "suave", "precio": 1500, "id": {"py/object": "uuid.UUID", "hex": "eab154dff27a41c78c59450ff467197d"}}
